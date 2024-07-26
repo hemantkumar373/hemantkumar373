@@ -8,14 +8,10 @@
 
 - 🎓 I’m currently studying **Computer Science and Engineering**
 
-- 🌱 I’m currently learning **Docker**
-
-- 🔭 I’m currently working on **Bookify**
-
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **kumarhemant3002@gmail.com**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hemant__kumar__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemant__kumar__" height="30" width="40" /></a>
