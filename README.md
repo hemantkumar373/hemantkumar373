@@ -1,6 +1,8 @@
-<div align="center" width="400" height="250">
-  <img src="https://shorturl.at/RbMJR"  />
+<div align="center">
+  <img src="https://github.com/hemantkumar373/hemantkumar373/blob/main/LinkedinBackgroundPic.png" alt="Hemant's Logo" width="800px" style="max-width: 100%; height: 
+   auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
+
 <h1 align="center">Hi 👋, I'm Hemant Kumar</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
