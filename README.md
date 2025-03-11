@@ -61,11 +61,11 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantkumar373&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=light&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantkumar373&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemantkumar373&show_icons=true&locale=en" alt="hemantkumar373" /></div>
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemantkumar373&theme=dark&show_icons=true&locale=en" alt="hemantkumar373" /></div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hemantkumar373&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=hemantkumar373&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
